@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="GJP2023"
+config/name="game-jam-godot-template"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
