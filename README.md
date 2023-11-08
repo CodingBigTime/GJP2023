@@ -1,4 +1,4 @@
-# GameJamPlus 2023 Game
+# Game Jam Godot Template
 
 ## Development
 
