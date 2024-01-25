@@ -4,14 +4,15 @@
 
 ### Godot
 
-Godot 4.1 is required.
+Godot 4.2 is required.
 
 ### Install pre-commit hooks
 
-Python 3 is required.
+Install pre-commit <https://pre-commit.com/>.
+
+Install hooks:
 
 ```bash
-python3 -m pip install pre-commit
 pre-commit install
 ```
 
