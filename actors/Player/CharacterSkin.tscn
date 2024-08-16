@@ -2612,10 +2612,6 @@ playback_default_blend_time = 0.1
 
 [node name="AnimationTree" type="AnimationTree" parent="."]
 root_node = NodePath("../gdbot")
-libraries = {
-"": SubResource("AnimationLibrary_c1lpt"),
-"Godot Custom Animations": SubResource("AnimationLibrary_8q8s6")
-}
 tree_root = ExtResource("3_hscum")
 anim_player = NodePath("../gdbot/AnimationPlayer")
 parameters/Add2/add_amount = 1.0
