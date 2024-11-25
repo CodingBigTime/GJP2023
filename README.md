@@ -4,7 +4,7 @@
 
 ### Godot
 
-Godot 4.2 is required.
+Godot 4.3 is required.
 
 ### Install pre-commit hooks
 

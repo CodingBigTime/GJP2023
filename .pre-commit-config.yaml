@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v5.0.0
     hooks:
       - id: check-case-conflict
       - id: check-json
@@ -10,9 +10,10 @@ repos:
       - id: detect-private-key
       - id: end-of-file-fixer
       - id: trailing-whitespace
+      - id: check-illegal-windows-names
 
   - repo: https://github.com/Scony/godot-gdscript-toolkit
-    rev: "4.1.0"
+    rev: "4.3.3"
     hooks:
       - id: gdlint
       - id: gdformat
